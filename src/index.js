@@ -5,7 +5,7 @@ addEventListener("fetch", (event) => {
 
 const routes = {
   "docker.124875.xyz": "https://registry-1.docker.io",
-  "download.docker.124875.xyz": "https://download.docker.com/linux/ubuntu",
+  "download.docker.124875.xyz": "https://download.docker.com",
   "cloudflare-docker-proxy.liuleiytu.workers.dev": "https://registry-1.docker.io"
 };
 
