@@ -8,6 +8,7 @@ const dockerHub = "https://registry-1.docker.io";
 const routes = {
   "docker.124875.xyz": dockerHub,
   "docker1.124875.xyz": dockerHub,
+  "docker.lowcode.us.kg":dockerHub,
   "download.docker.124875.xyz": "https://download.docker.com",
 };
 
